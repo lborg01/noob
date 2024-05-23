@@ -1,0 +1,210 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.a1{
+  width: 98vw;
+  height: 75px;
+  background-color: black;
+  border-bottom: 5px solid red;
+  border-top: 5px solid red;
+  border-left: 5px solid yellow;
+  border-right: 5px solid yellow;
+}
+.a1 h1{
+  color: rgb(250, 246, 0);
+  font-size: 27px;
+  text-align: center;
+  margin-top: 5px;
+}
+.a1 p{
+  color: yellow;
+  font-size: 15px;
+  text-align: center;
+}
+.a1 h3{
+  background-color: red;
+  color: black;
+  width: 90px;
+  height: 25px;
+  font-size: 20px;
+  margin-left: 80vw;
+  margin-bottom: 40px;
+  border: 2px solid yellow;
+  position: relative;
+  bottom: 30px;
+  text-align: center;
+}
+.a1 h4{
+  background-color: yellow;
+  color: black;
+  width: 90px;
+  height: 25px;
+  font-size: 20px;
+  margin-left: 90vw;
+  margin-bottom: 40px;
+  border: 2px solid red;
+  position: relative;
+  bottom: 100px;
+  text-align: center;
+}
+.a1 h2{
+  color: orange;
+  font-size: 20px;
+  position: relative;
+  bottom: 165px;
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.a2{
+  width: 100px;
+  height: 200px;
+  position: relative;
+  left: 90vw;
+  background-color: black;
+  color: orange;
+  font-size: 20px;
+  text-align: center;
+  border-left: 5px solid yellow;
+  border-right: 5px solid yellow;
+  border-bottom: 5px solid red;
+  border-radius: 2px;
+}
+body{
+  background-color: grey;
+}
+.a3{
+  width: 100px;
+  height: 200px;
+  position: relative;
+  bottom: 204px;
+  border-left: 5px solid yellow;
+  border-right: 5px solid yellow;
+  border-bottom: 5px solid red;
+  border-radius: 2px;
+  background-color: black;
+  color: orange;
+  font-size: 20px;
+  text-align: center;
+}
+.a4 h1{
+  color: red;
+  text-align: center;
+}
+.a4{
+  width: 500px;
+  height: 205px;
+  background-color: black;
+  position: relative;
+  left: 30vw;
+  bottom: 370px;
+  border-top: 2px solid red;
+  border-left: 2px solid yellow;
+  border-bottom: 2px solid red;
+  border-right: 2px solid yellow;
+}
+.a4 p{
+  color: yellow;
+}
+.a5 h1{
+  color: black;
+  width: 300px;
+  text-align: center;
+}
+.a5 img{
+  height: 200px;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.a5{
+  position: relative;
+  left: 10vw;
+  bottom: 260px;
+  width: 400px;
+}
+.s1{
+  width: 160px;
+  font-size: 30px;
+  text-align: center;
+  color: yellow;
+  position: relative;
+  bottom: 330px;
+  left: 547px;
+  background-color: black;
+  border: 3px solid red;
+  border-radius: 4px;
+}
+.s1 p{
+  height: 45px;
+  width: 150px;
+  margin-top: 6px;
+}
+.a5 h1{
+  color: darkred;
+}
+.a5 p{
+  color: red;
+  background-color: black;
+  text-align: center;
+  width: 200px;
+  position: relative;
+  left: 50px;
+  border: 2px solid yellow;
+  font-size: 18px;
+  border-radius: 6px;
+}
+.a5 h3{
+  color: yellow;
+  background-color: black;
+  text-align: center;
+  width: 200px;
+  position: relative;
+  left: 50px;
+  top: 6px;
+  font-size: 18px;
+  border: 2px solid red;
+  border-radius: 6px;
+}
+.a6{
+  width: 400px;
+  position: relative;
+  left: 64vw;
+  bottom: 550px;
+}
+.a6 img{
+  height: 204px;
+  width: 304px;
+}
+.a6 h1{
+color: darkred;
+width: 300px;
+text-align: center;
+}
+.a6 p{
+  color: red;
+  background-color: black;
+  text-align: center;
+  width: 200px;
+  position: relative;
+  left: 50px;
+  border: 2px solid yellow;
+  font-size: 18px;
+  border-radius: 6px;
+}
+.a6 img{
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.a6 h3{
+  color: yellow;
+  background-color: black;
+  text-align: center;
+  width: 200px;
+  position: relative;
+  left: 50px;
+  top: 6px;
+  font-size: 18px;
+  border: 2px solid red;
+  border-radius: 6px;
+}
